@@ -19,9 +19,16 @@ a:hover {
 }
 
 .error {
-  margin: 100px auto 0;
+  margin: 80px auto 0;
   width: 424px;
 }
+/* 
+@media screen and (max-width: 600px){
+  .error {
+    margin: 20px auto 0;
+    width: 404px;
+  }
+} */
 
 .error-wide {
   width: 500px;
@@ -38,6 +45,7 @@ a:hover {
   font-size: 1.8em;
   line-height: 1.2;
   margin: 0 0 .33em .33em;
+  text-align: center;
 }
 
 .error .header img {
