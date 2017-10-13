@@ -3,6 +3,7 @@ body {
   color: #222;
   font: 16px/1.7 'Helvetica Neue', Helvetica, Arial, Sans-serif;
   background: #fff;
+  background-image: url(../img/map-bg2.jpg);
 }
 
 img {
